@@ -24,8 +24,8 @@ def get_endpoint(slack_name, track):
         "current_day": day,
         "utc_time": timer,
         "track": track,
-        "github_file_url": "https://github.com/username/repo/blob/main/file_name.ext",
-        "github_repo_url": "https://github.com/TeflonX/HNGX",
+        "github_file_url": "https://github.com/TeflonX/HNGX/blob/master/main.py",
+        "github_repo_url": "https://github.com/TeflonX/HNGX/tree/master",
         "status_code": 200
 }, status_code=200)
 
